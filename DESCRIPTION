@@ -1,7 +1,7 @@
 Package: trafficCAR
 Type: Package
 Title: Bayesian CAR Models for Road-Segment Traffic
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person(
       "Madison", "Ell",
@@ -30,6 +30,6 @@ VignetteBuilder: knitr
 RoxygenNote: 7.3.3
 Depends: R (>= 3.5)
 NeedsCompilation: no
-Packaged: 2026-01-23 04:06:53 UTC; mell
+Packaged: 2026-03-30 05:04:16 UTC; mell
 Repository: CRAN
-Date/Publication: 2026-01-27 20:50:02 UTC
+Date/Publication: 2026-03-30 07:30:10 UTC

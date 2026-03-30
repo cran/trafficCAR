@@ -1,4 +1,4 @@
-44d25484b6e97d26cea022dd414eea69 *DESCRIPTION
+7b85d316ae0b4520e457c11647191933 *DESCRIPTION
 04ce0948d761f27d261171fed009b8a4 *LICENSE
 03a37c8378dd3c7f6a10e1fe40cee3c1 *NAMESPACE
 4d1be8c3e4af767214eaeb03aa1ca63a *R/augment.R
@@ -43,7 +43,7 @@ abb41b7076a1665b50793e3481837b9e *inst/doc/fetch-osm-roads.html
 19329a8c861c2e6ff7fbd3052b693b92 *inst/doc/model_diagnostics_and_checking.html
 e1df63f7ca019883d4eb88c7108019f7 *inst/doc/plot-model-fit-diagnostics-spatial.R
 e75659f1aaecd9a7222265f506c22708 *inst/doc/plot-model-fit-diagnostics-spatial.Rmd
-55ce2bf7c3f5277b2cb92f8fdd0f9bf1 *inst/doc/plot-model-fit-diagnostics-spatial.html
+0287902454b3879937f60dc10d2810ac *inst/doc/plot-model-fit-diagnostics-spatial.html
 4d8bf7905d08f3ba094436e668996d6c *inst/doc/sampling.R
 8fd1b6ada8adfaa7b557603fb4b22492 *inst/doc/sampling.Rmd
 49aa21810cea8edb14d108e8a174954e *inst/doc/sampling.html
@@ -96,7 +96,7 @@ a0eef2f58d2381b6267701475a18a1a4 *man/simplify_network.Rd
 081bf94c6fc781a689093a1ff994cf5a *tests/testthat.R
 f2b00b578735bef12e8ec52abd9beee6 *tests/testthat/helper-toy-networks.R
 7172da9c08a49b4a50b780c854aad37e *tests/testthat/test-augment.R
-b8a6990b9685943d5b88480970c40148 *tests/testthat/test-car-precision.R
+7c2e74f5efcaff54f60e9f4eb48f28cd *tests/testthat/test-car-precision.R
 1fadb70719e00ec8efcc6caea333449c *tests/testthat/test-diagnostics-moran.R
 1c8549b51ac27d617a20adcb351eaf4d *tests/testthat/test-diagnostics-ppc.R
 afbff6be31c95f9f3a2eae5a2b2f9374 *tests/testthat/test-diagnostics-residuals.R
